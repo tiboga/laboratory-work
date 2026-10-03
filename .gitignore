@@ -3,6 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+S3_03.10/pandas-trips/.venv
 # C extensions
 *.so
 
